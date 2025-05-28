@@ -2,7 +2,7 @@
 ## Быстрый старт
 
 ```bash
-# 1. Клонируйте репозиторий
+# 1. Предварительно клонируйте репозиторий.
 $ git clone https://github.com/notbeing/cli-python-calculator.git
 $ cd src
 
