@@ -7,7 +7,7 @@ $ git clone https://github.com/notbeing/cli-python-calculator.git
 $ cd src
 
 # 2. Запустите приложение
-$ python src/app.py
+$ python app.py
 ```
 
 ---
